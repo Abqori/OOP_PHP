@@ -3,7 +3,7 @@ class koneksi{
 	// properti
 	private $dbHost="localhost";
 	private $dbUser="root";
-	private $dbPass="gulnar";
+	private $dbPass="pass";
 	private $dbName="oop";
 
 	// method koneksi mysql
